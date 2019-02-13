@@ -34,4 +34,4 @@ Details:
 1. Please take into account I am newbie, so I don't have experience, only learning through online courses, tutorials and github examples.
 2. I almost managed to create __add__.php file to create new questions. I didn't manage why but isset($_POST) doesn't work as it should. However theoretically it's functional.
 3. I started to make some parts of code in JS (see screenshot in screens folder), but I thought to continue in sole PHP, had issues with SQL queries.
-4. Didn't implement second test and block on to continue if none test is selected - already no time.
+4. Didn't implement second test and block on to continue if none test is selected - have a lot of stuff to do in RL, if it's really needed I can code it.
