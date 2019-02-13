@@ -20,6 +20,11 @@ GRANT CREATE, INSERT, SELECT, DELETE, UPDATE ON printful_quiz.*
 TO 'printful_quiz'@'localhost' //db_user
 IDENTIFIED BY '123'; //pass
 
+Step 3. Extract contents from prinful_php.zip or get it from my github
+My github: https://github.com/pirrencode/php_quiz
+3.1. Put content to the folder that is associated with localhost in your server.
+E.g. c:/www
+
 Please put your Database login credentials in database.php
 
 $db_host = 'localhost';
@@ -29,12 +34,6 @@ $db_name = 'printful_quiz'; // database name
 $db_user = 'root'; // login
 
 $db_pass = ''; // pass if needed
-
-
-Step 3. Extract contents from prinful_php.zip or get it from my github
-My github: https://github.com/pirrencode/php_quiz
-3.1. Put content to the folder that is associated with localhost in your server.
-E.g. c:/www
 
 Step 3. Login to your MySQL server via phpmyadmin or any other convenient option and import printful_quiz.sql.
 SQL dumpfile is located in the printful_quiz.sql folder
