@@ -21,10 +21,15 @@ TO 'printful_quiz'@'localhost' //db_user
 IDENTIFIED BY '123'; //pass
 
 Please put your Database login credentials in database.php
+
 $db_host = 'localhost';
+
 $db_name = 'printful_quiz'; // database name
+
 $db_user = 'root'; // login
+
 $db_pass = ''; // pass if needed
+
 
 Step 3. Extract contents from prinful_php.zip or get it from my github
 My github: https://github.com/pirrencode/php_quiz
