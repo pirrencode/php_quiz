@@ -1,4 +1,4 @@
-Printful quiz manual from Aleksejs Vesjolijs for technical task.
+Quiz manual from Aleksejs Vesjolijs for technical task.
 
 How to set up the project:
 Step 1. At first, you need to install PHP on your machine and enable extensions:
